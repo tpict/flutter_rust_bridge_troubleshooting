@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: hello_world
+dependency_overrides:
+  hello_world:
+    path: ../hello_world
