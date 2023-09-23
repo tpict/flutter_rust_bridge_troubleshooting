@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`flutter_hello_world` - `v0.0.2+3`](#flutter_hello_world---v0023)
+
+---
+
+#### `flutter_hello_world` - `v0.0.2+3`
+
+ - **FIX**: missing dependency.
+
+
+## 2023-09-23
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`flutter_hello_world` - `v0.0.2+2`](#flutter_hello_world---v0022)
 
 ---

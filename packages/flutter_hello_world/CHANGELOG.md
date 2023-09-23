@@ -1,3 +1,7 @@
+## 0.0.2+3
+
+ - **FIX**: missing dependency.
+
 ## 0.0.2+2
 
  - **FIX**: snip example.

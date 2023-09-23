@@ -116,7 +116,7 @@ packages:
       path: "../flutter_hello_world"
       relative: true
     source: path
-    version: "0.0.2+2"
+    version: "0.0.2+3"
   flutter_lints:
     dependency: "direct dev"
     description:
