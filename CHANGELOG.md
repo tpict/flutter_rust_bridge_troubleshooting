@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`flutter_hello_world` - `v0.0.2+1`](#flutter_hello_world---v0021)
+
+---
+
+#### `flutter_hello_world` - `v0.0.2+1`
+
+ - **FIX**: something.
+
+
+## 2023-09-23
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`flutter_hello_world` - `v0.0.2`](#flutter_hello_world---v002)
  - [`hello_world` - `v1.1.0`](#hello_world---v110)
 

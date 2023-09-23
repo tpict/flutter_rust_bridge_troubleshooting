@@ -1,3 +1,7 @@
+## 0.0.2+1
+
+ - **FIX**: something.
+
 ## 0.0.2
 
  - **FEAT**: initial.
