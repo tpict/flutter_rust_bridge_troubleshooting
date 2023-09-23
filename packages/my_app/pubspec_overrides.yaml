@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: flutter_hello_world
+dependency_overrides:
+  flutter_hello_world:
+    path: ../flutter_hello_world
